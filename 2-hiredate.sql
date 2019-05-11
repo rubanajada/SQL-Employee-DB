@@ -1,0 +1,1 @@
+select * from employees where hire_date >= '01-01-1986' and hire_date <= '12-31-1986'
